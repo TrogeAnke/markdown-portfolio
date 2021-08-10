@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Ein schönes Bild von Dänemark](https://zeitreisen.zeit.de/wp-content/uploads/2020/06/aufmacher_daenemark.jpg)
