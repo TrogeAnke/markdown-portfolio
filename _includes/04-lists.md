@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+## Was ich gerne esse:
+- Kuchen
+- Kekse
+- Kartoffelauflauf
+- Nudeln
+  - mit Gemüsesoße 
+  - mit Fleischsoße
+  - mit Pesto
+- Salate
+- Pizza
